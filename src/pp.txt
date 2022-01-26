@@ -1,0 +1,9 @@
+espejos	movimiento spot en x	movimiento spot en y	xfin	yfin	paso	tipo
+voltaje	Voltaje inicial	Voltaje final	incremento	unidades	funcion	funcion de medición
+polarizador	angulo inicial	angulo final	incremento
+Laser	corriente inicial	corriente final	incremento	temperatura
+ninguno	ninguno
+ccd	tiempo de lectura	exposicion	Opción	Enable strobe	Valor Gamma	Ganancia	Número de lecturas
+potenciometro	average rate	readout config	tiempo de lectura
+Lockin	tiempo de lectura	número de mediciones
+ninguno	ninguno
